@@ -11,3 +11,6 @@ wheels/
 
 # editors
 .idea/
+
+# env
+.env
