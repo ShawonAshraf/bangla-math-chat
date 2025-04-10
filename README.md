@@ -22,7 +22,7 @@ Then load the dataset
 from datasets import load_dataset
 
 # loads the train split
-# if you want to load the entire datsaet, don't use the `split` param
+# if you want to load the entire dataset, don't use the `split` param
 dataset = load_dataset("shawon/bangla-math-chat", split="train")
 
 print(dataset[10])
